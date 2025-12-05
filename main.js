@@ -10,6 +10,7 @@
         this.id = this.id || new Date().getTime() + "-" + Math.random();
         this.callbacks = [];
 
+        
         if (props.url) {
             this.url = "https://www.khanacademy.org/computer-programming/new-webpage/5046113034420224";
         }
