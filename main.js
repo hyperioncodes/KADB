@@ -1,3 +1,4 @@
+// @noflow
 (function () {
     const scriptURL = document.currentScript.src;
     const Embed = (window.ScratchpadEmbed = function (props) {
