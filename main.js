@@ -1,6 +1,6 @@
 // @noflow
 (function () {
-    const scriptURL = document.currentScript.src;
+    const scriptURL = "https://www.khanacademy.org/computer-programming/new-webpage/5046113034420224";
     const Embed = (window.ScratchpadEmbed = function (props) {
         this.props = {
             ...baseProps,
