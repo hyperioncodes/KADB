@@ -11,7 +11,7 @@
         this.callbacks = [];
 
         if (props.url) {
-            this.url = props.url;
+            this.url = "https://www.khanacademy.org/computer-programming/new-webpage/5046113034420224";
         }
 
         const self = this;
